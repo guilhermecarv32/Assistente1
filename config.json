@@ -1,0 +1,40 @@
+{
+    "nome": "paiva",
+    "acoes": [
+        {
+            "nome": "ligar",
+            "objeto": [
+                "lampada",
+                "televisao",
+                "ar-condicionado"
+            ]
+        },
+
+        {
+            "nome": "desligar",
+            "objeto": [
+                "lampada",
+                "televisao",
+                "ar-condicionado"
+            ]
+        },
+
+        {
+            "nome": "aumentar",
+            "objeto": [
+                "luminosidade",
+                "volume",
+                "temperatura"
+            ]
+        },
+
+        {
+            "nome": "diminuir",
+            "objeto": [
+                "luminosidade",
+                "volume",
+                "temperatura"
+            ]
+        }
+    ]
+}
